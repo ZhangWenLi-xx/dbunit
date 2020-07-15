@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Select;
 public interface StudentDao {
 
     //根据主键id查询
-    @Select(" select  id,name from user where id=#{id};")
+    @Select(" select  id,name from student where id=#{id};")
     public User select(int id);
 
 

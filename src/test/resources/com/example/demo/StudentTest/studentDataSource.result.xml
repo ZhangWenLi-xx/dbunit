@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <dataset>
     <student id='1' name="张三" address="山西"/>
     <student id='2' name="李四" address="北京"/>
